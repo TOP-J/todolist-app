@@ -1,0 +1,42 @@
+[33mcommit e69f1afa2760dd9b5e89cf253aaa1e998ac36e2a[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: baba~J <nkehhotter@gmail.com>
+Date:   Mon Jun 20 07:26:51 2022 +0100
+
+    update2
+
+[33mcommit 1a62d1c5b93f370cf00ec8243f8f09dc0110c806[m[33m ([m[1;31mheroku/master[m[33m)[m
+Author: baba~J <nkehhotter@gmail.com>
+Date:   Mon Jun 20 07:01:37 2022 +0100
+
+    first empty commit
+
+[33mcommit e753088f5bde32c7a277f2009b3a85d8669e9566[m
+Merge: 39fa3f8 990a46c
+Author: baba~J <nkehhotter@gmail.com>
+Date:   Mon Jun 20 06:03:48 2022 +0100
+
+    updated
+
+[33mcommit 39fa3f835be6dcd28414e90e904a95866cd1f22d[m
+Author: baba~J <nkehhotter@gmail.com>
+Date:   Sun Jun 19 10:57:21 2022 +0100
+
+    added procfile, gitignore,port
+
+[33mcommit 3feedc54703a3a27e28736dc49ff22fe32af30ee[m
+Author: baba~J <nkehhotter@gmail.com>
+Date:   Sun Jun 19 10:49:37 2022 +0100
+
+    added procfile, gitignore,port
+
+[33mcommit 990a46ca539bbd70310405fc65d704a0df878735[m
+Author: baba~J <nkehhotter@gmail.com>
+Date:   Sun Jun 19 08:49:51 2022 +0100
+
+    added procfile and gitignore file
+
+[33mcommit 5a498f44dfb7d7c383492bd3576d71bb57cd9986[m
+Author: baba~J <nkehhotter@gmail.com>
+Date:   Sun Jun 19 02:55:14 2022 +0100
+
+    innitial commit

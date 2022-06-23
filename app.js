@@ -6,7 +6,7 @@ const date = require(__dirname + "/date.js");
 const mongoose = require('mongoose');
 const _ = require('lodash');
 const app = express();
-const PORT = process.env.PORT || 5000;
+const PORT = process.env.PORT;
 app.set('view engine', 'ejs');
 
 mongoose.connect('mongodb+srv://BABA-J:Sweetjesus2@baba-j.1lyrm.mongodb.net/todolistDB');
